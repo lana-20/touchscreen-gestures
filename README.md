@@ -17,4 +17,6 @@ Gestures are the new clicks. Gesture-driven devices changed the way we think abo
 
 [Android Gestures](https://developer.android.com/develop/ui/views/touch-and-input/gestures)
 
+[How to Automate Gesture Testing with Appium](https://applitools.com/blog/how-to-automate-gesture-testing-appium/)
+
 [Improve Mobile Test Automation With Appium](https://www.perfecto.io/webinars/uncovering-unknowns-appium-and-beyond)

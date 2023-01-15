@@ -26,6 +26,8 @@ The below image explains how the element (range slider) location can be calculat
 
 ----
 
+[Touch Targets on Touchscreens](https://www.nngroup.com/articles/touch-target-size/)
+
 [Touch Gesture Reference Guide](https://github.com/lana-20/touchscreen-gestures/blob/main/TouchGestureGuide.pdf)
 
 [Touch Target Sizes](https://www.lukew.com/ff/entry.asp?1085)

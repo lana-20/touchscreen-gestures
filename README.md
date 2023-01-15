@@ -9,7 +9,9 @@ Gestures are the new clicks. Gesture-driven devices changed the way we think abo
 
 To ensure accurate and user-friendly interactions, touch-based GUI controls must be large enough to accommodate fingertip actions without small targets that may lead to frustration. What is the appropriate size for these controls?
 
-Per [MIT Touch Lab study](http://touchlab.mit.edu/publications/2003_009.pdf), the average human finger pad is 10-14mm (38-53px) and the average fingertip is 8-10mm (30-38px).
+Customers use fingers to interact with app UI. Per [MIT Touch Lab study](http://touchlab.mit.edu/publications/2003_009.pdf), the average human finger pad is 10-14mm (38-53px) and the average fingertip is 8-10mm (30-38px).
+
+Touch targets include the area that responds to user input. Touch targets extend beyond the visual bounds of an element: An element like an icon may appear to be 24x24dp (4.5x4.5mm) but the padding surrounding it comprises the full 48x48dp (9x9mm) touch target.
 
 Apple, for example, recommends a minimum target size of 44x44px (11.6x11.6mm) for iPhones.
 Google recommends a minimum target size of 48x48dp (9x9mm).

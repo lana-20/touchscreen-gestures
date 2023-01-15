@@ -7,6 +7,13 @@ Gestures are the new clicks. Gesture-driven devices changed the way we think abo
 
 <img src="https://user-images.githubusercontent.com/70295997/212523014-3cf87fe0-6ffb-4d5b-9c74-a4abf720f8a4.png" width=800>
 
+
+The below image explains how the element (range slider) location can be calculated.
+
+![image](https://user-images.githubusercontent.com/70295997/212524140-3edce64e-00d1-4292-94f8-42c3f61e4eac.png)
+![image](https://user-images.githubusercontent.com/70295997/212524185-2a783fad-b08c-43ac-aed8-a877ce6021e0.png)
+
+
 ----
 
 [Touch Gesture Reference Guide](https://github.com/lana-20/touchscreen-gestures/blob/main/TouchGestureGuide.pdf)

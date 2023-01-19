@@ -1,4 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/70295997/212565923-db53bece-1d70-44fd-ad7b-75f247f34450.png" width=40> Touchscreen gestures
+# <img src="https://user-images.githubusercontent.com/70295997/212565923-db53bece-1d70-44fd-ad7b-75f247f34450.png" width=40> Touchscreen Gestures
+
+<img src="https://user-images.githubusercontent.com/70295997/213343882-96357417-dfc2-4616-a593-f64127db7767.png" width=400>
 
 
 Smartphones have relied heavily on gestures since the advent of multi-touch displays. When viewing photos, we no longer consider why we pinch and zoom, or why we pull down to refresh Twitter. As we interact with the content on our screens, we expect certain things to happen. There are more gestures than just the basic ones. The mobile ecosystem is filled with a variety of interactions, some of which are obvious, and some of which are hidden.

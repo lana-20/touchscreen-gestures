@@ -9,7 +9,7 @@ Gestures are the new clicks. Gesture-driven devices changed the way we think abo
 
 <img src="https://user-images.githubusercontent.com/70295997/212523014-3cf87fe0-6ffb-4d5b-9c74-a4abf720f8a4.png" width=800>
 
-To ensure accurate and user-friendly interactions, touch-based GUI controls must be large enough to accommodate fingertip actions without small targets that may lead to frustration. What is the appropriate size for these controls?
+To ensure accurate and user-friendly interactions, [touch-based GUI controls](https://github.com/lana-20/mobile-app-ui-components#readme) must be large enough to accommodate fingertip actions without small targets that may lead to frustration. What is the appropriate size for these controls?
 
 Customers use fingers to interact with app UI. Per [MIT Touch Lab study](http://touchlab.mit.edu/publications/2003_009.pdf), the average human finger pad is 10-14mm (38-53px) and the average fingertip is 8-10mm (30-38px).
 

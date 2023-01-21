@@ -22,7 +22,7 @@ Touch targets can be larger than 9mm (34px) if: the UI element is frequently tou
 
 ![image](https://user-images.githubusercontent.com/70295997/212525051-7c615248-c716-49b9-9266-f3cbcab92cff.png)
 
-<img width="477" alt="image" src="https://user-images.githubusercontent.com/70295997/213851725-fbb62f20-5769-4abb-8c58-07e4ce852091.png">
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/70295997/213852678-91b549af-e5e2-43bd-b8c3-c3088b7c4dcb.png">
 
 The below image explains how the element (range slider) location can be calculated.
 

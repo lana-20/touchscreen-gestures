@@ -50,3 +50,5 @@ The below image explains how the element (range slider) location can be calculat
 [How to Automate Gesture Testing with Appium](https://applitools.com/blog/how-to-automate-gesture-testing-appium/)
 
 [Improve Mobile Test Automation With Appium](https://www.perfecto.io/webinars/uncovering-unknowns-appium-and-beyond)
+
+[Swiping your way through Appium](https://youtu.be/oAJ7jwMNFVU)
